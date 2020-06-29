@@ -1,4 +1,4 @@
-@Library('mpl@feature/LA005240-691') _
+@Library('mpl@av-test') _
 AwsContainerPipeline {
   agent_label = 'central'
   appName = 'av-test-app'
