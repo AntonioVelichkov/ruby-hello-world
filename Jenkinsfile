@@ -52,7 +52,7 @@ AwsContainerPipeline {
     
   skipArtifactory = true
   enableDebug = true
-  destroyApp = true
+  //destroyApp = true
 
   //skipBuild = true
 }
